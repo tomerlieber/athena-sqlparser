@@ -4,6 +4,8 @@ Go package for parsing Athena SQL SELECT statements and queries on views.
 
 It's a fork of https://github.com/blastrain/vitess-sqlparser that is designed to do the same but for MySQL.
 
+Note that MySQL is different from Athena. For example, double quotes are used around table and column identifiers in Athena SQL and around strings in MySQL.
+
 
 # Installation
 

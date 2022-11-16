@@ -22,7 +22,7 @@ package main
 
 import (
  	"fmt"
-	"github.com/blastrain/vitess-sqlparser/sqlparser"
+	"github.com/tomerlieber/athena-sqlparser/sqlparser"
 )
 
 func main() {

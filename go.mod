@@ -1,4 +1,4 @@
-module github.com/blastrain/vitess-sqlparser
+module github.com/tomerlieber/athena-sqlparser
 
 go 1.12
 
@@ -11,4 +11,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
+	github.com/blastrain/vitess-sqlparser v0.0.0-20201030050434-a139afbb1aba
 )
